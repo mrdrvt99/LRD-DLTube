@@ -1,0 +1,7 @@
+Package: com.mrdrvt99.lrd
+Name: LRD
+Version: 1.13
+Architecture: iphoneos-arm64
+Maintainer: LRD
+Depends: mobilesubstrate | substitute | ellekit
+Description: LRD
