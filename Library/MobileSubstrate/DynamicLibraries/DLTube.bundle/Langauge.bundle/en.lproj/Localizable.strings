@@ -1,0 +1,142 @@
+/* ################################## */
+
+/*@ DLTubeAlertView @*/
+"DLTUBE_DONE" = "OK";
+"DLTUBE_VIDEO" = "You can download by long pressing the video/photos, and that applies to the stories.";
+"DLTUBE_VIDEO_2" = "The current way to download the video is by pressing the DLTube button on the video player, or you can activate the long press option from the tweak settings.";
+
+/*@ HUD @*/
+"HUD_SUCCESS" = "Success";
+"HUD_COPIED" = "Copied";
+"HUD_ERROR" = "Error!";
+"HUD_CONNECTION" = "There is no internet!";
+"HUD_DOWNLOADING" = "Downloading..";
+"HUD_DOWNLOADING_VIDEO" = "Downloading\nVideo (1/2)";
+"HUD_DOWNLOADING_AUDIO" = "Downloading\nAudio (2/2)";
+"HUD_PROCESSING" = "Processing..";
+"HUD_MERGING_FILES" = "Merging files..";
+"HUD_CANCEL" = "Cancel";
+
+/*@ ALERT MESSAGE @*/
+"ALERT_OK_BUTTON" = "OK";
+"ALERT_DISK_SPACE_ERROR" = "You don't have enough space on your device to download this file. Please clear up some space and try again.";
+"ALERT_FORCE_DOWNLOAD_ONE_VIDEO" = "Can't download more than one video/audio at the same time, Please wait for download to finish.";
+"ALERT_QUALITY_SUPPORT" = "This quality is not supported, select another quality.";
+"ALERT_DELETE_ALL_VIDEOS" = "Do you really want to delete all of your downloaded videos (%d videos)?";
+"ALERT_SAVE_ALL_VIDEOS" = "Do you really want to save all of your downloaded videos (%d videos)?";
+"ALERT_DELETE_ALL_AUDIOS" = "Do you really want to delete all of your downloaded audio files (%d audio files)?";
+"ALERT_WARNING" = "This action cannot be undone!";
+"ALERT_UNKNOWN_ERROR" = "An error occurred, please try again.";
+
+/*@ ACTIONSHEET @*/
+"ACTION_MESSAGE_SAVE_SHARE" = "What you want to do?";
+"ACTION_VIDEO_TITLE" = "Select Video Quality";
+"ACTION_IMAGE_TITLE" = "Select Image Quality";
+"ACTION_AUDIO_RENAME" = "Rename";
+"ACTION_SAVE" = "Save";
+"ACTION_DOWNLOAD" = "Download";
+"ACTION_VIDEO" = "Video";
+"ACTION_AUDIO" = "Audio";
+"ACTION_PHOTO" = "Photo";
+"ACTION_INFO" = "Information";
+"ACTION_DEFAULT_OPTIONS" = "Default Options";
+"ACTION_MORE" = "More";
+"ACTION_COPY" = "Copy";
+"ACTION_COPY_TITLE" = "Copy title";
+"ACTION_COPY_DESC" = "Copy description";
+"ACTION_COPY_POST" = "Copy post";
+"ACTION_COPY_COMMENT" = "Copy comment";
+"ACTION_SHARE" = "Share";
+"ACTION_CANCEL" = "Cancel";
+"ACTION_DISMISS" = "Dismiss";
+"ACTION_SEND" = "Send";
+"ACTION_CREATE" = "Create";
+"ACTION_RESTORE" = "Restore";
+
+/*@ YOUTUBE @*/
+"DOWNLOADS" = "Downloads";
+"NO_DOWNLOADS" = "No Downloads";
+"ACTION_PLAY_NEXT" = "Play Next";
+"ACTION_DEFAULT_PLAYER" = "Default Player";
+"ACTION_SAVE_VIDEO" = "Save Video";
+"ACTION_DELETE" = "Delete";
+"ACTION_DELETE_VIDEO" = "Delete Video";
+"ACTION_DELETE_AUDIO" = "Delete Audio";
+"ACTION_MODIFY_NAME" = "Modify Name";
+"ALERT_MODIFY_NAME_TO" = "Modify Name To:";
+"ACTION_MODIFY" = "Modify";
+"ACTION_SAVE_IMAGE" = "Save Image";
+"ACTION_SAVE_ALL_VIDEOS" = "Save All Videos";
+"ACTION_DELETE_ALL_VIDEOS" = "Delete All Videos";
+"ACTION_DELETE_ALL_AUDIOS" = "Delete All Audios";
+
+/*@ LYRICS @*/
+"ALERT_LYRICS_INFO" = "In the event that the lyrics of the song do not appear, or you see other song lyrics, just edit the name of the song and put the correct name without any other additional words.";
+"LYRICS_TITLE" = "Lyrics";
+"LYRICS_ERROR" = "Lyrics not available\nMake sure the song name is correct, and the lyrics will appear if available.";
+"LYRICS_ERROR_BUG" = "There was an error fetching data\nPlease contact the developer and share the name of the song to solve the problem.";
+"LYRICS_TRANS_ERROR" = "Blank text cannot be translated!";
+"LYRICS_TRANS_ACTION" = "Translate Text";
+"LYRICS_ORIGINAL_ACTION" = "Original Text";
+"LYRICS_COPY_ACTION" = "Copy Lyrics";
+
+/*@ FRPreferences @*/
+"SETTINGS_STATUS" = "Unlicensed copy";
+"SETTINGS_UPDATE" = "Please update tweak";
+
+"ALERT_RESTART_APP" = "Requires restarting YouTube to apply changes";
+"DOWNLOADS_SECTITLE" = "Downloads";
+"DOWNLOAD_HIGHEST_QUALITY" = "Always download in highest quality";
+"DOWNLOAD_SPEED" = "Speed download (Beta)";
+"DOWNLOAD_WITH_LONG_PRESS" = "Download by long press for videos";
+"ALERT_DOWNLOAD_SPEED" = "Speed Download feature requires high speed internet and modern device to function properly, otherwise it will take some time to download and media processing.";
+"MEDIA_YOUTUBE_LABEL" = "Media";
+"PLAY_IN_BG_YOUTUBE" = "Background Playback";
+"PLAY_VIDEO_IN_LOOP" = "Autoplay video when is finished";
+"REMOVE_RECOMMENDED_VIDEOS" = "Remove recommended videos at end of video";
+"UNLOCK_HD_WATCHED" = "Watch videos in high quality";
+"ENABLE_PIP" = "Enable Picture in Picture";
+"ALWAYS_SHOW_PROGRESS_BAR_SHORTS" = "Show progress bar in Shorts";
+"VIEW_ALL_QUALITY" = "View the highest resolution available for video";
+"OTHER_SCTITLE" = "Other";
+"COPY_TEXT_FOOTER" = "When enabled, you can copy the title, description, comments, and posts.";
+"COPY_TEXT" = "Copy Text";
+"HIDE_CREATION_BAR_BUTTON" = "Hide Create Video Button";
+"OPEN_IN_SAFARI" = "Open links in Safari";
+"REMOVE_ADS_YOUTUBE" = "Remove Ads";
+"REMOVE_ADS_YOUTUBE_FOOTER" = "Remove Ads that appear at the beginning and during the videos.";
+
+/*@ BACKUP @*/
+"BACKUP_SCTITLE" = "Backup";
+"BACKUP_DLTUBE_LIBRARY" = "DLTube library";
+"BACKUP_CREATE_TITLE" = "Create a backup";
+"BACKUP_CREATE_SUB" = "Export a backup to the 'Files' app containing all your downloaded videos and audios in your DLTube library.";
+"BACKUP_RESTORE_TITLE" = "Restore a backup";
+"BACKUP_RESTORE_SUB" = "The backup can only be restored from the 'Files' app.";
+//
+"BACKUP_ALERT_CONFIRM_CREATE" = "Do you want to create a backup?";
+"BACKUP_ALERT_CONFIRM_RESTORE" = "Do you want to restore this backup";
+"BACKUP_ALERT_NO_SPACE" = "There is not enough space to complete the action";
+//
+"BACKUP_HUD_SAVED_SUCCESSFULLY" = "Backup saved successfully";
+"BACKUP_HUD_RESTORED_SUCCESSFULLY" = "Backup restored successfully";
+"BACKUP_HUD_PREAPRED" = "Backup is being prepared";
+"BACKUP_HUD_RESTORED" = "The backup is being restored";
+"BACKUP_HUD_WARNING_NOT_SAVED" = "Warning: The backup is not saved in the Files app!";
+"BACKUP_HUD_NO_FOUND_FILES" = "There are no files to complete the action";
+"BACKUP_HUD_ERROR_UNKNOWN" = "An error occurred, Unknown backup";
+
+"DEVELOPER" = "Developer";
+"AHMED_BAFKIR" = "Ahmed Bafkir";
+"SUPPORT_ACCOUNT" = "Support account";
+"DONATE" = "Support me via Paypal ♡";
+
+"THANKS_SECTITLE" = "Special Thanks";
+"THANKS_FOUADRAHEB" = "Fouad Raheb";
+
+/*@ Notification @*/
+"DOWNLOAD_IS_COMPLETE" = "Downloaded";
+
+/* ---------------------------------- */
+
+/* ################################## */

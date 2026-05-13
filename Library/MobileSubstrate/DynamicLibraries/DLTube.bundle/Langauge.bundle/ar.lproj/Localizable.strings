@@ -1,0 +1,142 @@
+/* ################################## */
+
+/*@ DLTubeAlertView @*/
+"DLTUBE_DONE" = "حسنًا";
+"DLTUBE_VIDEO" = "يمكنك التنزيل عن طريق الضغط لفترة طويلة على الفيديو/الصور، وينطبق ذلك على الستوري.";
+"DLTUBE_VIDEO_2" = "الطريقة الحالية لتنزيل الفيديو هي بالضغط على زر DLTube الموجود في مشغل الفيديو، أو يمكنك تفعيل خيار الضغط المطول من إعدادات الأداة.";
+
+/*@ HUD @*/
+"HUD_SUCCESS" = "تم الحفظ";
+"HUD_COPIED" = "تم النسخ";
+"HUD_ERROR" = "خطأ!";
+"HUD_CONNECTION" = "لا يوجد إنترنت!";
+"HUD_DOWNLOADING" = "جارِ التنزيل..";
+"HUD_DOWNLOADING_VIDEO" = "جارِ تنزيل\nالفيديو (2/1)";
+"HUD_DOWNLOADING_AUDIO" = "جارِ تنزيل\nالصوت (2/2)";
+"HUD_PROCESSING" = "جارِ المعالجة..";
+"HUD_MERGING_FILES" = "دمج الملفات..";
+"HUD_CANCEL" = "إلغاء";
+
+/*@ ALERT MESSAGE @*/
+"ALERT_OK_BUTTON" = "حسنًا";
+"ALERT_DISK_SPACE_ERROR" = "ليس لديك مساحة كافية على جهازك لتنزيل هذا الملف. يرجى إفراغ بعض المساحة ثم حاول مرة أخرى.";
+"ALERT_FORCE_DOWNLOAD_ONE_VIDEO" = "لا يمكن تنزيل أكثر من فيديو/صوت واحد في نفس الوقت، برجاء انتظار انتهاء التنزيل.";
+"ALERT_QUALITY_SUPPORT" = "هذه الجودة غير مدعومة، حدد جودة أخرى.";
+"ALERT_DELETE_ALL_VIDEOS" = "هل تريد حقًا حذف كل فيديوهاتك المُنزّلة (%d فيديو)؟";
+"ALERT_SAVE_ALL_VIDEOS" = "هل تريد حقًا حفظ كل فيديوهاتك المُنزّلة (%d فيديو)؟";
+"ALERT_DELETE_ALL_AUDIOS" = "هل تريد حقًا حذف كل ملفاتك الصوتية المُنزّلة (%d ملف صوتي)؟";
+"ALERT_WARNING" = "لا يمكن التراجع عن هذا الإجراء!";
+"ALERT_UNKNOWN_ERROR" = "حدث خطأ، يرجى المحاولة مرة أخرى.";
+
+/*@ ACTIONSHEET @*/
+"ACTION_MESSAGE_SAVE_SHARE" = "ماذا تريد أن تفعل؟";
+"ACTION_VIDEO_TITLE" = "اختر جودة الفيديو";
+"ACTION_IMAGE_TITLE" = "اختر جودة الصورة";
+"ACTION_AUDIO_RENAME" = "إعادة تسمية";
+"ACTION_SAVE" = "حفظ";
+"ACTION_DOWNLOAD" = "تنزيل";
+"ACTION_VIDEO" = "فيديو";
+"ACTION_AUDIO" = "صوت";
+"ACTION_PHOTO" = "صورة";
+"ACTION_INFO" = "معلومات";
+"ACTION_DEFAULT_OPTIONS" = "الخيارات الإفتراضية";
+"ACTION_MORE" = "المزيد";
+"ACTION_COPY" = "نسخ";
+"ACTION_COPY_TITLE" = "نسخ العنوان";
+"ACTION_COPY_DESC" = "نسخ الوصف";
+"ACTION_COPY_POST" = "نسخ المنشور";
+"ACTION_COPY_COMMENT" = "نسخ التعليق";
+"ACTION_SHARE" = "مشاركة";
+"ACTION_CANCEL" = "إلغاء";
+"ACTION_DISMISS" = "اغلق";
+"ACTION_SEND" = "إرسال";
+"ACTION_CREATE" = "إنشاء";
+"ACTION_RESTORE" = "استعادة";
+
+/*@ YOUTUBE @*/
+"DOWNLOADS" = "التنزيلات";
+"NO_DOWNLOADS" = "لا توجد تنزيلات";
+"ACTION_PLAY_NEXT" = "تشغيل التالي";
+"ACTION_DEFAULT_PLAYER" = "المشغل الإفتراضي";
+"ACTION_SAVE_VIDEO" = "حفظ الفيديو";
+"ACTION_DELETE" = "حذف";
+"ACTION_DELETE_VIDEO" = "حذف الفيديو";
+"ACTION_DELETE_AUDIO" = "حذف الصوت";
+"ACTION_MODIFY_NAME" = "تعديل الاسم";
+"ALERT_MODIFY_NAME_TO" = "تعديل الاسم الى:";
+"ACTION_MODIFY" = "تعديل";
+"ACTION_SAVE_IMAGE" = "حفظ الصورة";
+"ACTION_SAVE_ALL_VIDEOS" = "حفظ كل الفيديوهات المُنزّلة";
+"ACTION_DELETE_ALL_VIDEOS" = "حذف كل الفيديوهات المُنزّلة";
+"ACTION_DELETE_ALL_AUDIOS" = "حذف كل الصوتيات المُنزّلة";
+
+/*@ LYRICS @*/
+"ALERT_LYRICS_INFO" = "في حال لم تظهر كلمات الأغنية، أو ظهرت لك كلمات أغنية أخرى، فقط قم بتحرير اسم الأغنية ووضع الإسم الصحيح بدون اي كلمات أخرى إضافية.";
+"LYRICS_TITLE" = "كلمات الأغنية";
+"LYRICS_ERROR" = "كلمات الأغنية غير متوفّرة\nتأكد أن اسم الأغنية صحيح، وسوف تظهر كلمات الأغنية إذا كانت متاحة.";
+"LYRICS_ERROR_BUG" = "يوجد خطأ في جلب البيانات\nالرجاء التواصل مع المطور ومشاركة اسم الأغنية ليتم حل المشكلة.";
+"LYRICS_TRANS_ERROR" = "لا يمكن ترجمة نص فارغ!";
+"LYRICS_TRANS_ACTION" = "ترجمة النص";
+"LYRICS_ORIGINAL_ACTION" = "النص الأصلي";
+"LYRICS_COPY_ACTION" = "نسخ كلمات الأغنية";
+
+/*@ FRPreferences @*/
+"SETTINGS_STATUS" = "نسخة غير مرخّصة";
+"SETTINGS_UPDATE" = "يرجى تحديث الأداة";
+
+"ALERT_RESTART_APP" = "يتطلب إعادة تشغيل يوتيوب لتطبيق التغييرات";
+"DOWNLOADS_SECTITLE" = "التنزيلات";
+"DOWNLOAD_HIGHEST_QUALITY" = "تنزيل بأعلى جودة دائمًا";
+"DOWNLOAD_SPEED" = "تنزيل سريع (تجريبي)";
+"DOWNLOAD_WITH_LONG_PRESS" = "تنزيل بالضغط المطوّل للفيديوهات";
+"ALERT_DOWNLOAD_SPEED" = "تتطلب ميزة التنزيل السريع إنترنت عالي السرعة وجهاز حديث لتعمل بشكل صحيح، غير ذلك سيستغرق التنزيل ومعالجة الوسائط بعض الوقت.";
+"MEDIA_YOUTUBE_LABEL" = "الوسائط"; 
+"PLAY_IN_BG_YOUTUBE" = "تشغيل المقاطع في الخلفية";
+"PLAY_VIDEO_IN_LOOP" = "إعادة تشغيل الفيديو تلقائيًا";
+"REMOVE_RECOMMENDED_VIDEOS" = "إزالة الفيديوهات الموصى بها نهاية الفيديو";
+"UNLOCK_HD_WATCHED" = "مشاهدة الفيديوهات بدقة عالية";
+"ENABLE_PIP" = "تمكين صورة داخل صورة";
+"ALWAYS_SHOW_PROGRESS_BAR_SHORTS" = "إظهار شريط التقدم في Shorts";
+"VIEW_ALL_QUALITY" = "عرض أعلى دقة متاحة للفيديو";
+"OTHER_SCTITLE" = "أخرى";
+"COPY_TEXT_FOOTER" = "عند التفعيل يمكنك نسخ العنوان والوصف والتعليقات والمنشورات.";
+"COPY_TEXT" = "نسخ النص";
+"HIDE_CREATION_BAR_BUTTON" = "إخفاء زر إنشاء الفيديو";
+"OPEN_IN_SAFARI" = "فتح الروابط في سفاري";
+"REMOVE_ADS_YOUTUBE" = "إزالة الإعلانات";
+"REMOVE_ADS_YOUTUBE_FOOTER" = "إزالة الإعلانات الدعائية التي تظهر بداية وأثناء الفيديوهات.";
+
+/*@ BACKUP @*/
+"BACKUP_SCTITLE" = "النسخ الاحتياطي";
+"BACKUP_DLTUBE_LIBRARY" = "مكتبة DLTube";
+"BACKUP_CREATE_TITLE" = "إنشاء نسخة احتياطية";
+"BACKUP_CREATE_SUB" = "تصدير نسخة احتياطية إلى تطبيق 'الملفات' يحتوي على كل تنزيلاتك في مكتبة DLTube من فيديوهات وصوتيات.";
+"BACKUP_RESTORE_TITLE" = "استعادة نسخة احتياطية";
+"BACKUP_RESTORE_SUB" = "يمكن استعادة النسخة الاحتياطية من تطبيق 'الملفات' فقط.";
+//
+"BACKUP_ALERT_CONFIRM_CREATE" = "هل تريد إنشاء نسخة احتياطية؟";
+"BACKUP_ALERT_CONFIRM_RESTORE" = "هل تريد استعادة هذه النسخة الاحتياطية؟";
+"BACKUP_ALERT_NO_SPACE" = "لا توجد مساحة كافية لإكمال الإجراء";
+//
+"BACKUP_HUD_SAVED_SUCCESSFULLY" = "تم حفظ النسخة الاحتياطية بنجاح";
+"BACKUP_HUD_RESTORED_SUCCESSFULLY" = "تمت استعادة النسخة الاحتياطية بنجاح";
+"BACKUP_HUD_PREAPRED" = "جارِ تجهيز النسخة الاحتياطية";
+"BACKUP_HUD_RESTORED" = "جارِ استعادة النسخة الاحتياطية";
+"BACKUP_HUD_WARNING_NOT_SAVED" = "تحذير: لم يتم حفظ النسخة الاحتياطية في تطبيق الملفات!";
+"BACKUP_HUD_NO_FOUND_FILES" = "لا توجد ملفات لإكمال الإجراء";
+"BACKUP_HUD_ERROR_UNKNOWN" = "حدث خطأ، نسخة احتياطية غير معروفة";
+
+"DEVELOPER" = "المطور";
+"AHMED_BAFKIR" = "أحمد بافقير";
+"SUPPORT_ACCOUNT" = "حساب الدعم";
+"DONATE" = "ادعمني عبر Paypal ♡";
+
+"THANKS_SECTITLE" = "شكر خاص";
+"THANKS_FOUADRAHEB" = "فؤاد راهب";
+
+/*@ Notification @*/
+"DOWNLOAD_IS_COMPLETE" = "اكتمل التنزيل";
+
+/* ---------------------------------- */
+
+/* ################################## */
