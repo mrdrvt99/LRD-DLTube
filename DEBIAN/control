@@ -3,5 +3,5 @@ Name: DLTube
 Version: 2.16.3
 Architecture: iphoneos-arm64
 Maintainer: DLTube
-Depends: mobilesubstrate | substitute | ellekit
+Depends: mobilesubstrate | substitute | ellekit, com.ps.YouTubeHeader, preferenceloader
 Description: DLTube
