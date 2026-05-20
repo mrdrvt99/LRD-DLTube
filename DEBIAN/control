@@ -3,5 +3,5 @@ Name: LRD
 Version: 1.13
 Architecture: iphoneos-arm64
 Maintainer: LRD
-Depends: mobilesubstrate | substitute | ellekit
+Depends: mobilesubstrate | substitute | ellekit, com.ps.YouTubeHeader, preferenceloader
 Description: LRD
